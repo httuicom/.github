@@ -9,5 +9,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<img src="https://github.com/jaum-cloud/.github/assets/57275106/04d3edcb-520a-4d87-992a-744ae60e200a" alt="Jaum Cloud" style="width: 100%" />
-
+<img src="https://github.com/httuicom/.github/assets/57275106/0edaceaa-f68e-4df0-95a7-7f471cfa5652" alt="httui banner" style="width: 100%" />
